@@ -1,89 +1,92 @@
 ---
-layout: post
-title: "Time Lapse Photography - Holy Grail"
-categories: photography
-author:
-- Jia Shen
+layout: post  
+title: "Time Lapse Photography - Holy Grail"  
+categories: photography  
+author:  
+- Jia Shen  
 ---
 
-#### **Time Lapse Photography**
+#### **Time-Lapse Photography**
 
-**Time Lapse** photography is a technique where a series of photos are taken at set intervals over a period of time and then played back at a much faster speed than real life. This creates a video that compresses time, making slow processes—like the movement of clouds, the blooming of flowers, or a sunset—appear to happen quickly. (source: ChatGPT)
+**Time-lapse** photography is a technique where a series of photos are taken at set intervals over a period of time and then played back at a much faster speed than real life. This creates a video that compresses time, making slow processes—like the movement of clouds, the blooming of flowers, or a sunset—appear to happen quickly. (Source: ChatGPT)
 
-The **purposes** of taking time lapse photography are..
-- create an interesting video showing the changes of the architectures and movement of the background (clouds, sunrise, sunset, etc.)
-- select a few outstanding photos out of the hundreds or thousands photos taken during the period
+The **purposes** of time-lapse photography are to:
+- Create an interesting video showing architectural changes and movement in the background (clouds, sunrise, sunset, etc.)
+- Select a few outstanding photos from the hundreds or thousands taken during the period
 
-**Usecases** include b-roll within videos, landscape photography showcasing and so on.
+**Use cases** include b-roll within videos, landscape photography showcases, and more.
 
-**Holy Grail** time lapse is the version of time lapse photography under day-to-night or night-to-day conditions.
+**Holy Grail** time-lapse refers to time-lapse photography under day-to-night or night-to-day conditions.
 
 ---
 
 #### **Camera and Settings**
 
-Camera           | Lens                  | Focal Length     | Aperture         | iso              | Shutter Speed
+Camera           | Lens                  | Focal Length     | Aperture         | ISO              | Shutter Speed
 ---------------- | --------------------- | ---------------- | ---------------- | ---------------- | ---------------------
 Sony A6600       | 18-135mm              | 18mm             | 5.6 / 6.3        | 100              | varies (auto)
 
-The interval was set to 6 secs initially. It was then set to 12 secs on day 1 and 16 secs on day 2.
+The interval was set to 6 seconds initially, then adjusted to 12 seconds on Day 1 and 16 seconds on Day 2.  
 Aperture priority mode was on.
 
-On Day 1, f/6.3 and f/5.6 was used. ISO was set to a fixed value - 100.
-Shutter speed was adjusted automatically by the camera.
+On Day 1, f/6.3 and f/5.6 were used. ISO was fixed at 100. Shutter speed was adjusted automatically by the camera.
 
-On Day 2, I mistakenlly set aperture to f/16 as I thought it would open up for more light. Apparently I was wrong, the F number should go down to open up more light.
-f/16 was used, and ISO was set to 320.
-Shutter speed was auto.
+On Day 2, I mistakenly set the aperture to f/16, thinking it would open up for more light. I was wrong—the f-number should go down to allow more light in.  
+f/16 was used, and ISO was set to 320. Shutter speed was auto.
 
 ---
 
-#### **Problem Encountered**
-##### Shutter Speed's duration is longer than shooting interval
-The exposure triangle consists of aperture, shutter speed, and iso. A well-exposed picture means it's not too bright so a large portion of the pictures are white or not too dark so details are hidden within the shades. To make sure a picture is correctly exposed, the components of the exposure triangle need to be set correctly.
+#### **Problems Encountered**
 
-Under aperture priority mode, an aperture is set manually while the other two components (iso and shutter speed) are automatically adjusted by the camera.
+##### Shutter Speed's Duration Longer than Shooting Interval
 
-This time I have also manually set the iso to 100 (which is a low number). In order to keep the picture well-exposed, the camera had to compensate with longer exposure time, thus slower shutter speed. I had set the shooting interval at 6 secs, but soon the shutter speed is getting longer and longer and finally exceeds the set interval (> 6 secs). When shutter speed (8s) is longer than the set interval (6s), the camera would respect the shutter speed and skip photo shooting even the interval was set. This would result in a longer interval <- this is my guess.
+The exposure triangle consists of aperture, shutter speed, and ISO. A well-exposed picture is neither too bright (overexposed) nor too dark (underexposed). To achieve correct exposure, the components of the exposure triangle must be set correctly.
 
-During this shooting, I manually changed the interval to 12s instead of 6s. The end result is objects in the foreground moves way too fast (i.e. the boats on the river, the lights on the buildings, etc.).
+In aperture priority mode, the aperture is set manually while ISO and shutter speed are automatically adjusted by the camera.
 
-##### The final result was meh due to dull foreground
-The time-lapse video gets interesting if both the foreground and background have changes. It could be the combination of moving cars vs. cloud movements, lights on buildings vs. sunset, etc.
-During this shooting, I found the first 11 secs of the Day 1 video have dark foreground as the buildings weren't lit up yet. Even the moving clouds and beautiful sky couldn't save the dullness of the foreground.
+I manually set the ISO to 100 (a low value), so the camera compensated by increasing the exposure time, resulting in slower shutter speeds. I had set the shooting interval at 6 seconds, but as the shutter speed became longer, it eventually exceeded the interval (>6 seconds). When the shutter speed (8s) is longer than the interval (6s), the camera respects the shutter speed and skips shots, resulting in a longer actual interval—this is my guess.
+
+During this shoot, I manually changed the interval to 12 seconds instead of 6. The result was that objects in the foreground (e.g., boats on the river, lights on buildings) moved too quickly.
+
+##### The Final Result Was 'Meh' Due to Dull Foreground
+
+Time-lapse videos become interesting when both the foreground and background have dynamic changes. It could be the combination of moving cars and cloud movements, or building lights against a sunset.
+
+In this case, the first 11 seconds of the Day 1 video had a dark foreground as the buildings hadn't lit up yet. Even with moving clouds and a beautiful sky, the dull foreground couldn't be saved.
 
 ---
 
 #### **Final Results**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CSFprPnWf4E?si=Wt8-H5wi0aWrHxPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### **Summary**
 
-##### Settings Update
+##### Updated Settings
 
-Aperture priority 
+**Aperture priority**
 
-- f/3.5 (allows as much light in as possible)
+- f/3.5 (to allow as much light in as possible)
 
-ISO
+**ISO**
 
-- auto 100-400 (if wants to use individual photos) or auto 100-3200 (if only wants to make the time-lapse video)
-- ISO auto min. SS: 4" (pushing shutter speed to certain limit before ramping up the ISO)
+- Auto 100-400 (if planning to use individual photos) or Auto 100-3200 (if only making the time-lapse video)
+- ISO auto min. shutter speed: 4" (pushing shutter speed to a certain limit before ramping up the ISO)
 
-Interval Shooting Functions
+**Interval Shooting Functions**
 
-- Shooting interval: 6s
+- Shooting interval: 6 seconds
 - Shoot interval priority: On (prioritize interval over shutter speed)
 
 ---
 
-#### **Userful Resources**
-[Aperture Priority DAY to NIGHT Best settings](https://www.youtube.com/watch?v=64PcHYwRv7U)
+#### **Useful Resources**
 
+[Aperture Priority DAY to NIGHT Best Settings](https://www.youtube.com/watch?v=64PcHYwRv7U)  
 [史上最全📸延时摄影教程，这货有点干](https://www.xiaohongshu.com/discovery/item/66a449ee0000000005038adb?source=webshare&xsec_token=ABGThElJbdgmXlFruxkkUeV1Hb9z9I_lOYfbJmrZh9K6E=&xsec_source=pc_share)
 
 ---
-I am looking forward to using the updated settings on my next photo shooting!
 
+I look forward to using these updated settings on my next shoot!
