@@ -18,6 +18,8 @@ The **purposes** of taking time lapse photography are..
 
 **Holy Grail** time lapse is the version of time lapse photography under day-to-night or night-to-day conditions.
 
+---
+
 #### Camera and Settings
 Camera           | Lens                  | Focal Length     | Aperture         | iso              | Shutter Speed (auto)
 ---------------- | --------------------- | ---------------- | ---------------- | ---------------- | ---------------------
@@ -33,25 +35,36 @@ On Day 2, I mistakenlly set aperture to f/16 as I thought it would open up for m
 f/16 was used, and ISO was set to 320.
 Shutter speed was auto.
 
+---
+
 #### Problem Encountered
 ##### Shutter Speed's duration is longer than shooting interval
 The exposure triangle consists of aperture, shutter speed, and iso. A well-exposed picture means it's not too bright so a large portion of the pictures are white or not too dark so details are hidden within the shades. To make sure a picture is correctly exposed, the components of the exposure triangle need to be set correctly.
+
 Under aperture priority mode, an aperture is set manually while the other two components (iso and shutter speed) are automatically adjusted by the camera.
+
 This time I have also manually set the iso to 100 (which is a low number). In order to keep the picture well-exposed, the camera had to compensate with longer exposure time, thus slower shutter speed. I had set the shooting interval at 6 secs, but soon the shutter speed is getting longer and longer and finally exceeds the set interval (> 6 secs). When shutter speed is longer than the set interval, the camera would respect the shutter speed and skip the photo shooting at the set interval. The end result would probably the interval would probably double <- this is my guess).
+
 During this shooting, I manually changed the interval to 12-sec instead of 6-sec. The end result is the changes in the photo happen too fast (i.e. boats across the Huangpu River, the lights on the building, etc.).
 
 ##### The final result was meh due to dull foreground
 The time-lapse video gets interesting if both the foreground and background have changes. It could be the combination of moving cars vs. cloud movements, lights on buildings vs. sunset, etc.
 During this shooting, I found the first 11 secs of the Day 1 video have dark foreground as the buildings weren't lit up yet. Even the moving clouds and beautiful sky couldn't save the dullness of the foreground.
 
+---
+
 #### Final Results
 
+
+---
 
 #### Summary
 
 ##### Settings Update
 
-Aperture priority - f/3.5 (allows as much light in as possible)
+Aperture priority 
+
+- f/3.5 (allows as much light in as possible)
 
 ISO
 
@@ -64,8 +77,8 @@ Interval Shooting Functions
 - Shoot interval priority: On (prioritize interval over shutter speed)
 
 #### Userful Resources:
-[Aperture Priority DAY to NIGHT Best settings][https://www.youtube.com/watch?v=64PcHYwRv7U]
-[史上最全📸延时摄影教程，这货有点干][https://www.xiaohongshu.com/discovery/item/66a449ee0000000005038adb?source=webshare&xsec_token=ABGThElJbdgmXlFruxkkUeV1Hb9z9I_lOYfbJmrZh9K6E=&xsec_source=pc_share]
+[Aperture Priority DAY to NIGHT Best settings](https://www.youtube.com/watch?v=64PcHYwRv7U)
+[史上最全📸延时摄影教程，这货有点干](https://www.xiaohongshu.com/discovery/item/66a449ee0000000005038adb?source=webshare&xsec_token=ABGThElJbdgmXlFruxkkUeV1Hb9z9I_lOYfbJmrZh9K6E=&xsec_source=pc_share)
 
 ---
 I am looking forward to using the updated settings on my next photo shooting!
