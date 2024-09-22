@@ -22,9 +22,9 @@ The **purposes** of taking time lapse photography are..
 
 #### **Camera and Settings**
 
-Camera           | Lens                  | Focal Length     | Aperture         | iso              | Shutter Speed (auto)
+Camera           | Lens                  | Focal Length     | Aperture         | iso              | Shutter Speed
 ---------------- | --------------------- | ---------------- | ---------------- | ---------------- | ---------------------
-Sony A6600       | Zoom Lens 18-135mm    | 18mm             | 5.6 / 6.3        | 100              | varies
+Sony A6600       | 18-135mm              | 18mm             | 5.6 / 6.3        | 100              | varies (auto)
 
 The interval was set to 6 secs initially. It was then set to 12 secs on day 1 and 16 secs on day 2.
 Aperture priority mode was on.
