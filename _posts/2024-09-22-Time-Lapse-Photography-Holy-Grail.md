@@ -55,7 +55,7 @@ During this shooting, I found the first 11 secs of the Day 1 video have dark for
 ---
 
 #### **Final Results**
-<iframe width="420" height="315" src="[http://www.youtube.com/embed/dQw4w9WgXcQ](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-1-720p.mov)" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-1-720p.mov" frameborder="0" allowfullscreen></iframe>
 
 ![Time Lapse Day 1 at 6s](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-1-720p.mov)
 ![Time Lapse Day 1 at 12s](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-2-720p.mov)
