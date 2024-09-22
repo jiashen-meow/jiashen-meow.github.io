@@ -44,9 +44,9 @@ The exposure triangle consists of aperture, shutter speed, and iso. A well-expos
 
 Under aperture priority mode, an aperture is set manually while the other two components (iso and shutter speed) are automatically adjusted by the camera.
 
-This time I have also manually set the iso to 100 (which is a low number). In order to keep the picture well-exposed, the camera had to compensate with longer exposure time, thus slower shutter speed. I had set the shooting interval at 6 secs, but soon the shutter speed is getting longer and longer and finally exceeds the set interval (> 6 secs). When shutter speed is longer than the set interval, the camera would respect the shutter speed and skip the photo shooting at the set interval. The end result would probably the interval would probably double <- this is my guess).
+This time I have also manually set the iso to 100 (which is a low number). In order to keep the picture well-exposed, the camera had to compensate with longer exposure time, thus slower shutter speed. I had set the shooting interval at 6 secs, but soon the shutter speed is getting longer and longer and finally exceeds the set interval (> 6 secs). When shutter speed (8s) is longer than the set interval (6s), the camera would respect the shutter speed and skip photo shooting even the interval was set. This would result in a longer interval <- this is my guess.
 
-During this shooting, I manually changed the interval to 12-sec instead of 6-sec. The end result is the changes in the photo happen too fast (i.e. boats across the Huangpu River, the lights on the building, etc.).
+During this shooting, I manually changed the interval to 12s instead of 6s. The end result is objects in the foreground moves way too fast (i.e. the boats on the river, the lights on the buildings, etc.).
 
 ##### The final result was meh due to dull foreground
 The time-lapse video gets interesting if both the foreground and background have changes. It could be the combination of moving cars vs. cloud movements, lights on buildings vs. sunset, etc.
