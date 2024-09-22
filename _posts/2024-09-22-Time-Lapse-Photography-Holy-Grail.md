@@ -6,7 +6,7 @@ author:
 - Jia Shen
 ---
 
-#### Time Lapse Photography
+**#### Time Lapse Photography**
 
 **Time Lapse** photography is a technique where a series of photos are taken at set intervals over a period of time and then played back at a much faster speed than real life. This creates a video that compresses time, making slow processes—like the movement of clouds, the blooming of flowers, or a sunset—appear to happen quickly. (source: ChatGPT)
 
@@ -20,7 +20,7 @@ The **purposes** of taking time lapse photography are..
 
 ---
 
-#### Camera and Settings
+**#### Camera and Settings**
 Camera           | Lens                  | Focal Length     | Aperture         | iso              | Shutter Speed (auto)
 ---------------- | --------------------- | ---------------- | ---------------- | ---------------- | ---------------------
 Sony A6600       | Zoom Lens 18-135mm    | 18mm             | 5.6 / 6.3        | 100              | varies
@@ -37,7 +37,7 @@ Shutter speed was auto.
 
 ---
 
-#### Problem Encountered
+**#### Problem Encountered**
 ##### Shutter Speed's duration is longer than shooting interval
 The exposure triangle consists of aperture, shutter speed, and iso. A well-exposed picture means it's not too bright so a large portion of the pictures are white or not too dark so details are hidden within the shades. To make sure a picture is correctly exposed, the components of the exposure triangle need to be set correctly.
 
@@ -53,12 +53,12 @@ During this shooting, I found the first 11 secs of the Day 1 video have dark for
 
 ---
 
-#### Final Results
+**#### Final Results**
 
 
 ---
 
-#### Summary
+**#### Summary**
 
 ##### Settings Update
 
@@ -76,7 +76,9 @@ Interval Shooting Functions
 - Shooting interval: 6s
 - Shoot interval priority: On (prioritize interval over shutter speed)
 
-#### Userful Resources:
+---
+
+**#### Userful Resources**
 [Aperture Priority DAY to NIGHT Best settings](https://www.youtube.com/watch?v=64PcHYwRv7U)
 [史上最全📸延时摄影教程，这货有点干](https://www.xiaohongshu.com/discovery/item/66a449ee0000000005038adb?source=webshare&xsec_token=ABGThElJbdgmXlFruxkkUeV1Hb9z9I_lOYfbJmrZh9K6E=&xsec_source=pc_share)
 
