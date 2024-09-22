@@ -55,10 +55,10 @@ During this shooting, I found the first 11 secs of the Day 1 video have dark for
 ---
 
 #### **Final Results**
-![](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-1-720p.mov)
-![](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-2-720p.mov)
-![](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240913-1-720p.mov)
-![](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240913-2-720p.mov)
+![Time Lapse Day 1 at 6s](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-1-720p.mov)
+![Time Lapse Day 1 at 12s](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240912-2-720p.mov)
+![Time Lapse Day 2 at 6s](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240913-1-720p.mov)
+![Time Lapse Day 2 at 16s](https://github.com/jiashen-meow/jiashen-meow.github.io/raw/refs/heads/master/assets/Time%20Lapse%20-%2020240913-2-720p.mov)
 
 ---
 
