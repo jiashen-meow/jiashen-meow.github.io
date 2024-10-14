@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "Time Lapse Photography - Holy Grail - Part 2"  
+title: "Time Lapse Photography - Holy Grail - 2"  
 categories: photography  
 author:  
 - Jia Shen  
@@ -14,9 +14,9 @@ I didn't expect to create a time lapse so soon! However, I decided to do one at 
 
 #### **Camera and Settings**
 
-Camera           | Lens         | Focal Length     | Aperture   | ISO     | Shutter Speed     | White Balance
----------------- | -------------| ---------------- | -----------| --------| ------------------| --------------
-Sony A6600       | SEL50F18     | 50mm(APS-C)      | 1.8        | 100     | varies (auto)     | Auto
+Camera           | Lens         | Focal Length     | Aperture   | ISO     | Shutter Speed | White Balance
+---------------- | -------------| ---------------- | -----------| --------| --------------| --------------
+Sony A6600       | SEL50F18     | 50mm(APS-C)      | 1.8        | 100     | Auto          | Auto
 
 The interval was set to 6 seconds.
 Shooting time was from 18:09 - 18:49, and the shutter speed varied from 1/320 to 1/3 respectively.
