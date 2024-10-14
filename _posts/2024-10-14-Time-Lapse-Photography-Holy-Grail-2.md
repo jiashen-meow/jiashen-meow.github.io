@@ -26,7 +26,7 @@ Shooting time was from 18:09 - 18:49, and the shutter speed varied from 1/320 to
 #### **Problems Encountered**
 
 ##### Sudden Color Shift
-The white balance was always set to auto during my recent time lapse shooting. **White Balance**, according to ChatGPT, adjusts the color temperature in photos to make whites appear neutral, compensating for the color of the light source (warm or cool). This ensures colors look natural, mimicing what human eyes see.
+The white balance was always set to auto during my recent time lapse shootings. **White Balance**, according to ChatGPT, adjusts the color temperature in photos to make whites appear neutral, compensating for the color of the light source (warm or cool). This ensures colors look natural, mimicing what human eyes see.
 
 In addition to the auto setting, the Sony A6600 provides a few other settings:
 
@@ -39,7 +39,7 @@ Incandescent    | 2500 - 3000 K
 
 The color temperature (measured in Kelvin, K) describes the warmth or coolness of light. Lower numbers are warmer, higher numbers are cooler.
 
-Regarding the time lapse, when the white balance was set to auto, the color tone may change drastically from photo to photo if a critical value in temeprature tiers is hit. For example, the two photos took at 18:29:30 PM and 18:29:36 PM appear drastically different. As result, there is a drastic color jump in the final composite time lapse video.
+Regarding the time lapse, when the white balance was set to auto, the color tone may change drastically from frame to frame if a critical value in temeprature tiers is hit. For example, the two photos took at 18:29:30 PM and 18:29:36 PM appear drastically different. As result, there is a drastic color jump in the final composite time lapse video.
 
 IMG 3427 & IMG 3428
 
