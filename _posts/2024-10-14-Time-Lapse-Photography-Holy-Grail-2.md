@@ -14,9 +14,9 @@ I didn't expect to create a time lapse so soon! However, I decided to do one at 
 
 #### **Camera and Settings**
 
-Camera           | Lens                  | Focal Length     | Aperture         | ISO              | Shutter Speed     | White Balance
----------------- | --------------------- | ---------------- | ---------------- | ---------------- | ------------------| --------------
-Sony A6600       | SEL50F18              | 50mm(APS-C)      | 1.8              | 100              | varies (auto)     | Auto
+Camera           | Lens         | Focal Length     | Aperture   | ISO     | Shutter Speed     | White Balance
+---------------- | -------------| ---------------- | -----------| --------| ------------------| --------------
+Sony A6600       | SEL50F18     | 50mm(APS-C)      | 1.8        | 100     | varies (auto)     | Auto
 
 The interval was set to 6 seconds.
 Shooting time was from 18:09 - 18:49, and the shutter speed varied from 1/320 to 1/3 respectively.
@@ -41,8 +41,10 @@ Color temperature, measured in Kelvin (K), indicates the warmth or coolness of l
 
 Regarding the time lapse, when the white balance was set to auto, the color tone may change drastically from frame to frame if a critical value in temperature tiers is reached. For example, the two photos taken at 18:29:30 PM and 18:29:36 PM appear drastically different. As a result, there is a drastic color jump in the final composite time lapse video.
 
-![first image](/assets/DSC03427.jpg)
-![second image](/assets/DSC03428.jpeg)
+18:29:30 PM                |  18:29:36 PM
+:-------------------------:|:-------------------------:
+![](/assets/DSC03427.jpg)  |  ![](/assets/DSC03428.jpeg)
+
 
 IMG Time       | Temperature     | Tint
 ---------------| ----------------| ------
