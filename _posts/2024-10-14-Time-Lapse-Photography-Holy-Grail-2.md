@@ -8,7 +8,7 @@ author:
 
 #### **Intro**
 
-Well, I didn't think I would do a time lapse this soon. But I did it at home on Sept 26 again to try out the new settings summarized from last time. Again, I encountered some problems.
+I didn't expect to create a time lapse so soon! However, I decided to do one at home on September 26 to test the new settings I summarized from my previous experience.
 
 ---
 
@@ -26,7 +26,7 @@ Shooting time was from 18:09 - 18:49, and the shutter speed varied from 1/320 to
 #### **Problems Encountered**
 
 ##### Sudden Color Shift
-The white balance was always set to auto during my recent time lapse shootings. **White Balance**, according to ChatGPT, adjusts the color temperature in photos to make whites appear neutral, compensating for the color of the light source (warm or cool). This ensures colors look natural, mimicing what human eyes see.
+I always set the white balance to auto during my recent time lapse sessions. **White Balance**, according to ChatGPT, adjusts the color temperature in photos to make whites appear neutral, compensating for the color of the light source (warm or cool). This ensures colors look natural and closely resemble what human eyes perceive.
 
 In addition to the auto setting, the Sony A6600 provides a few other settings:
 
@@ -37,12 +37,12 @@ Shade           | 6500 - 8000 K
 Cloudy          | 6500 - 8000 K
 Incandescent    | 2500 - 3000 K
 
-The color temperature (measured in Kelvin, K) describes the warmth or coolness of light. Lower numbers are warmer, higher numbers are cooler.
+Color temperature, measured in Kelvin (K), indicates the warmth or coolness of light.
 
-Regarding the time lapse, when the white balance was set to auto, the color tone may change drastically from frame to frame if a critical value in temeprature tiers is hit. For example, the two photos took at 18:29:30 PM and 18:29:36 PM appear drastically different. As result, there is a drastic color jump in the final composite time lapse video.
+Regarding the time lapse, when the white balance was set to auto, the color tone may change drastically from frame to frame if a critical value in temperature tiers is reached. For example, the two photos taken at 18:29:30 PM and 18:29:36 PM appear drastically different. As a result, there is a drastic color jump in the final composite time lapse video.
 
 ![first image](/assets/DSC03427.jpg)
-![second image](/assets/DSC03428.jpg)
+![second image](/assets/DSC03428.jpeg)
 
 IMG Time       | Temperature     | Tint
 ---------------| ----------------| ------
@@ -52,11 +52,11 @@ IMG Time       | Temperature     | Tint
 The solution is to adjust all photos with the same selected temperature and tint.
 
 ##### Colorgrading
-According to the a few video I consulted, photos need to be more saturated in order for the time lapse video to look natural. I have simply bring saturation up for +20% this time.
+According to the a few video I consulted, photos need to be more saturated in order for the time lapse video to look natural. This time, I increased the saturation by 20%.
 
 For post processing, I used the workflow LRT -> LR -> LRT -> FCP -> export.
 
-LRT is the time lapse processing software, which is made for time lapse photo processing. It's great at identifying key frames, mass processing batch photos based on the key frame photos, deflicker (not existing problems for me but good to know!), smooth exposure, etc.
+LRT is a specialized software designed for processing time lapse photos. It effectively identifies key frames, processes batches of photos based on these key frames, and smooths exposure (deflickers as well, but I haven't encountered the flickering issue).
 
 LR is Adobe Lightroom. It's used to color grade the key frames.
 
@@ -101,4 +101,4 @@ FCP is Final Cut Pro used to composite all photos into a time-lapse video.
 
 ---
 
-And again, I look forward to my next time lapse shooting! Maybe instead of a day-to-night shift, I will do a night-to-day shift. And I also heard that it's bird migration season in Shenzhen now. It would be fun to document that as well!
+I’m looking forward to my next time lapse! Instead of a day-to-night shift, I might try a night-to-day shift. Additionally, I've heard it's currently bird migration season in Shenzhen. It would be fun to document that as well!
