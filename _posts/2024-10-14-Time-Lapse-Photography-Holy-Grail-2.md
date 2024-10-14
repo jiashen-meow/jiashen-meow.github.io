@@ -41,8 +41,8 @@ The color temperature (measured in Kelvin, K) describes the warmth or coolness o
 
 Regarding the time lapse, when the white balance was set to auto, the color tone may change drastically from frame to frame if a critical value in temeprature tiers is hit. For example, the two photos took at 18:29:30 PM and 18:29:36 PM appear drastically different. As result, there is a drastic color jump in the final composite time lapse video.
 
-![first image](/jiashen-meow/jiashen-meow.github.io/blob/master/assets/DSC03427.jpg)
-![second image](/jiashen-meow/jiashen-meow.github.io/blob/master/assets/DSC03428.jpg)
+![first image](/blob/master/assets/DSC03427.jpg)
+![second image](/blob/master/assets/DSC03428.jpg)
 
 IMG Time       | Temperature     | Tint
 ---------------| ----------------| ------
