@@ -8,92 +8,103 @@ author:
 
 #### **Intro**
 
-During this year's China National Day Holiday, I went to Tibet with a few friends. Tibet has magnificent landscape, long history, and unique culture. Its majestic architecture and tibetan buddahism traditions left me strong impressions. This article will record the vlog's equipment, reflect on the vlog making process, finally summarize the lesson-learnt and finally document useful resources for future vlog making.
+During this year's China National Day Holiday, I toured Tibet with a few friends. Tibet’s magnificent landscapes, rich history, and unique culture left a strong impression on me, especially its majestic architecture and Tibetan Buddhist traditions. This article will cover the equipment used in the vlog, reflect on filming process, summarize lesson learned and list useful resources for future vlogs.
 
 #### **Camera and Settings**
 
 Camera               | Lens         | Resolution      | Comment
 -------------------- | ------------ | --------------- | -------------------------------
-Iphone 12            | -            | HD              | Could actually do 4K
+iPhone 12            | -            | HD              | Could actually do 4K
 DJI Avata 2          | -            | HD              | Could actually do 4K
 DJI Osmo Pocket 1    | -            | 4K              | -
 Sony A6600           | 18-135 mm    | 4K              | Steady shot was not turned on
                      | 50 mm        | 4K              | Steady shot was not turned on
 
-Iphone 12 and DJI Avata 2 have 4K resolustion but was not turned on.
+Both the iPhone 12 and DJI Avata 2 support 4K resolution, though I filmed in HD.
 
-Sony A6600 was mostly used for photography. The limited videos were shaky due to lack of steady shot, but post processing can use algorithm to correct the shakiness.
+Sony A6600 was mostly used for photography. The limited video footage was shaky due to lack of steady shot, though I corrected it in post-production. The lens selection worked well, with a zoom lens and a fixed lens. The zoom lens was especially useful for animal shots, giving me a “Discovery photographer” feel (haha, not quite, but fun!). I might consider swapping the 50mm Sony for a 30mm Sigma, as my APS-C camera’s crop factor (1.5) makes 50mm equivalent to 75mm in full-frame, while 30mm would be about 45mm.
 
 #### **Content Creation**
 
-No pre-production was done whatsoever. I researched about sightseeing in Tibet with a few articles and videos. I bought Lonely Planet's Tibet version, which is quite helpful.
+No pre-production was done whatsoever. I researched Tibetan sightseeing spots using a few articles and videos and bought the *Lonely Planet Tibet* guidebook, which was quite helpful.
 
 Content                        | Equipment Used         | Comment
 ------------------------------ | ---------------------- | ---------------------------------
-Secnery along the way          | Osmo Pocket            | Shoot outside from vehicle
-                               |                        | Actions that require pan
-                               |                        | Paranoma
+Secnery along the way          | Osmo Pocket            | Filmed from the vehicle, pans, panoramas
 Landscape, Architecture        | Sony A6600             | Outcome is great!
 Food                           | iphone                 | Very convenient
 Drone shot                     | Avata                  | 
-Others (scenes in hotel, etc.) | iphone with gimbal     | Can be replaced by Osmo Pocket
+Others (scenes in hotel, etc.) | iPhone with gimbal     | Can be replaced by Osmo Pocket
 
 
 #### **Editing**
 
+Duration       | Tasks            
+-------------- | --------------------
+2 days         | Organizing footage
+1 day          | Started the edit
+1 day          | Editing animal shots
+2 days         | Adding events in chronological order
+1 day          | Motion Graphics
+1 day          | Music, record narration, sound mix
+1 day          | Subtitles, export
+1/2 day        | Bilibili cover making, upload
+**9 1/2 days** | 
+
 Duration      | Tasks            
 ------------- | --------------------
-2 days        | Organizing footage
-1 day         | Started editing
-1 day         | Animal World editing
-2 days        | Edit in order of time of the event
-1 day         | Motion Graphics
-1 day         | Music, record narration and sound mix
-1 day         | Subtitles + export
-1/2 day       | Bilibili cover making + upload
+1 day         | English narration, motion graphics
+1 day         | Recording narration
+1 day         | Editing, Export, Upload
+**3 days**    |  
 
-In total of 9 1/2 days
+Editing took about 2 weeks.
 
-Duration      | Tasks            
-------------- | --------------------
-1 day         | English narration, English motion graphics
-1 day         | Record narration
-1 day         | Editing + Export + Upload
+Starting without a clear plan led to a cycle of researching -> endless tutorial-watching -> copying others’ work, only to find it didn’t suit my footage -> researching again. It felt like a vortex. After two days of organizing footage chronologically and tagging clips by category, patterns began to emerge—like the abundance of animals in Tibet.
 
-In total of 3 days
-
-First a few days is most painful. Without any ideas before editing can lead to waste of time researching, endless bilibili/youtube watching, copying other people's work then finding out it doesn't work, and going back to researching. It's like a vortex.
-
-After 2 days of organizing footage in chronicle order and tagging categories, some pattern starts showing up - for example, animal world, etc.
-
-Deciding what style to use for the vlog is difficult. I was debating between asian tv shows and calm narrative vlog style. I went for the asian tv show style but stopped due to lack of footage of people.
+Choosing a style for the vlog was also difficult. I debated between a fast-paced Asian TV show style and a calmer, narrative vlog style. I initially tried the former but eventually shifted due to a lack of people-centered footage.
 
 
 #### **Lesson-learned**
 
 **Pre-production**
-Not sure to what extent pre-production should be done for vlog, but it's needed especially when one is new to filmmaking (like me!!). There are a few problems due to lack of pre-production:
+Not sure to what extent pre-production should be done for vlog, but it's essential, especially when one is new to filmmaking (like me!!). There are a few problems due to lack of pre-production:
 
-- mundane shots (don't have emotions, too flat
-- repeated shots (also due to not keeping record of what have been shot
-- no continuous story line (painful to come up with storyline in post-production
+- Flat, emotionless shots
+- Repeated shots (also due to not tracking what I had filmed
+- No cohesive storyline (developing one in post was challenging
 
-What can be prepared beforehand to avoid the problems:
+To avoid these issues, I plan to:
 
-- research the destination, understand what's unique about the destination, get a sense roughly what kind of scenes will happen at the destination (is it people, is it architecture, is it actions, etc.), what emotion will be captured, what kind of shot/camera movement should pair with it
-- bookeeping while traveling to make sure what content has been included
+- Research the destination to understand what makes it unique, anticipate scenes that may arise, identify the emotions I want to capture, and think about which shot types or movements will best convey them
+- Track footage while traveling to ensure I cover all planned content
 
 **Keeping shots interesting**
 
-- Zoom in while shooting instead of leaving it to editing in post-production
-- Techniques to keep shots interesting: slow motion, slow shutter, step printing (Wong Kar-Wai style), EFFECTIVE camera movement, etc.
-- and of course, keep accummulating filmmaking senses...!
+- Zoom-in in action if needed while shooting instead of leaving it to editing in post-production
+- Try techniques like slow motion, slow shutter, step printing (Wong Kar-Wai style), EFFECTIVE camera movement, etc.
+- Build a stronger sense for filmmaking over time
+
+**How long should a scene be**
+
+For viewers to fully experience a scene:
+
+- Photo collages should display each photo for about 3 seconds
+- Video scenes should last around 15 seconds
 
 **Don't be stressed**
 
-Chaos is a must-go-through-stage while editing. Don't set too high of an expectation. Remember get it done is more important than make it perfect. I'm always improving :) and there is always a next one.
+Chaos is a natural part of editing. Don't set too high of an expectation. Remember: get it done is more important than make it perfect. I'm always improving :) and there is always a next project.
 
 
 #### **Useful Resources
 
-**
+**Filmmaking senses**
+[导演私用的10个APP&网站](https://www.bilibili.com/video/BV1cG4y1X7AC/?share_source=copy_web)
+
+**Techniques**
+[背景虚化就一定能出片吗？索尼85gm2测评](https://www.bilibili.com/video/BV1d74y127Yy/?share_source=copy_web)
+[用慢快门&慢动作！让VLOG获得节奏与创意](https://www.bilibili.com/video/BV11841127MP/?share_source=copy_web)
+[3分钟让你旅拍时脑子更清醒](https://www.bilibili.com/video/BV1MKyHYxEGG/?share_source=copy_web)
+
+
