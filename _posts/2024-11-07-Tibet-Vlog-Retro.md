@@ -100,11 +100,15 @@ Chaos is a natural part of editing. Don't set too high of an expectation. Rememb
 #### **Useful Resources
 
 **Filmmaking senses**
+
 [导演私用的10个APP&网站](https://www.bilibili.com/video/BV1cG4y1X7AC/?share_source=copy_web)
 
 **Techniques**
+
 [背景虚化就一定能出片吗？索尼85gm2测评](https://www.bilibili.com/video/BV1d74y127Yy/?share_source=copy_web)
+
 [用慢快门&慢动作！让VLOG获得节奏与创意](https://www.bilibili.com/video/BV11841127MP/?share_source=copy_web)
+
 [3分钟让你旅拍时脑子更清醒](https://www.bilibili.com/video/BV1MKyHYxEGG/?share_source=copy_web)
 
 
